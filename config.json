@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsvender",
+        "uuid": 3412790,
+        "checksum": "p5vrhq"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
